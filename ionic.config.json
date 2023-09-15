@@ -1,0 +1,7 @@
+{
+  "name": "misComponentesAnna",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
